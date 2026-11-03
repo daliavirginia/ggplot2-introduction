@@ -1,5 +1,6 @@
 #INTRODUCCIÓN A GGPLOT - EJEMPLO
 # Clase 25/10/2022
+# Dalia Virginia Panza
 
 ## Objetivo ##
 
