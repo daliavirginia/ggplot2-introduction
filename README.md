@@ -1,6 +1,3 @@
-# ggplot2-introduction
-Educational materials for an introductory workshop on data visualization with ggplot2 in R
-
 # Introduction to Data Visualization with ggplot2
 
 This repository contains teaching materials developed for an introductory workshop on data visualization using ggplot2 in R.
