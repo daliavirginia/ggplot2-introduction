@@ -11,4 +11,4 @@ Contents
 - R script with practical example
 - Example dataset
 
-These materials were developed as part of my experience teaching scientific programming and data visualization. My research background is in climate sciences, where I use statistical analysis and programming to process and visualize environmental and climate data.
+These materials were developed as part of my experience teaching scientific programming and data visualization. 
